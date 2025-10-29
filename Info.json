@@ -1,8 +1,10 @@
 ﻿{
   "Name": "OneClickFavour",
   "DisplayName": "OneClickFavour",
+  "GameVersion":1.12,
   "Desc": "กดใช้จะสามารถกดคลิกเดียวแล้วทำความสนิทเลย",
   "Author": "xenoxue",
+  "Tags":["Function","Usability","ExcludeRealmsHeaven","Non-Chinese"],
   "UIPackage":null,
   "Dependencies": null
 }
