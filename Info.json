@@ -1,1 +1,8 @@
-{"Name":"一键满好感度","DisplayName":"一键满好感度|OneClickFavour","GameVersion":1.12,"Version":1.2,"Desc":"[作者]\r\n    xenoxue\r\n[简介]\r\n[作者]\n    xenoxue\n[简介]\n简单粗暴的降低难度mod。\n在交流界面添加了一个按钮。\n点击后交流对象直接满好感度，并且突破心防！\nMax Favour in One Click.\n\nQQ群：780475084\nDiscord ID: xenoxue#9531","Author":"xenoxue","UIPackage":"","ID":"1954986802","Flag":-2080773807,"Tags":["Function","Usability","ExcludeRealmsHeaven","Non-Chinese"],"IncreasedDesc":"v1.2\n*Add English Language Support","IsInsideCreat":false,"Previews":["QQ图片20201210162251.png"],"ParentModInfo":null}
+﻿{
+  "Name": "OneClickFavour",
+  "DisplayName": "OneClickFavour",
+  "Desc": "กดใช้จะสามารถกดคลิกเดียวแล้วทำความสนิทเลย",
+  "Author": "xenoxue",
+  "UIPackage":null,
+  "Dependencies": null
+}
