@@ -4,6 +4,7 @@
   "GameVersion":1.2,
   "Desc": "กดใช้จะสามารถกดคลิกเดียวแล้วทำความสนิทเลย",
   "Author": "xenoxue",
+  "Flag":-2080773807,
   "Tags":["Function","Usability","ExcludeRealmsHeaven","Non-Chinese"],
   "UIPackage":null,
   "Dependencies": null
